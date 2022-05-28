@@ -17,5 +17,5 @@ Since this app was built with a focus on functionality, minimum attention was pa
 
 ---
 
-![The User Interface!](/img/to.do.list-app-interface.png "the interface")
+![The User Interface!](/img/interface.png "the interface")
 
